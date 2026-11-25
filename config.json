@@ -1,0 +1,256 @@
+{
+  "campanha": {
+    "id": "operacao-aprovacao-2611",
+    "nome": "Operação Aprovação",
+    "projeto": "Aprova PM"
+  },
+  "marca": {
+    "logo": "media/logo-aprovapm.webp",
+    "nome": "Aprova PM"
+  },
+  "fontes": {
+    "adobeKit": ""
+  },
+  "midia": {
+    "manifesto": "media/manifest.json"
+  },
+  "textos": {
+    "inicioRotulo": "OPERAÇÃO APROVAÇÃO · ACESSO",
+    "inicioTitulo": "Eles começaram exatamente onde você está agora.",
+    "inicioBotao": "POSICIONE SUA DIGITAL",
+    "inicioSemSom": "Entrar sem som",
+    "inicioNota": "Aumente o volume. Leva menos de 1 minuto.",
+    "rotuloIntro": "FORMATURAS PMESP · ALUNOS APROVA PM",
+    "frasesMosaico": [
+      {
+        "linha1": "Eles tinham um objetivo.",
+        "linha2": "Hoje, vestem a farda."
+      },
+      {
+        "linha1": "Cada aprovação",
+        "linha2": "representa uma história."
+      },
+      {
+        "linha1": "Por trás de cada conquista,",
+        "linha2": "existe preparação."
+      }
+    ],
+    "fraseVoce": "O próximo pode ser você.",
+    "pular": "Pular",
+    "alexRotulo": "QUEM VAI CAMINHAR COM VOCÊ",
+    "alexFrase": "Quem acompanha candidatos nessa jornada é",
+    "alexTagline": "Ele conhece essa seleção por dentro.",
+    "conviteRotulo": "OPERAÇÃO APROVAÇÃO",
+    "conviteLinha1": "Você viu o caminho e quem já chegou lá.",
+    "conviteTitulo": "Agora, abra o que foi reservado para você.",
+    "conviteBotao": "ABRIR O COFRE",
+    "cofreRotulo": "COFRE DE OPORTUNIDADES",
+    "cofreInstrucao": "Segure a alavanca. Solte para girar.",
+    "cofreBotao": "SEGURE PARA GIRAR",
+    "cofreStatus": "LIBERADO",
+    "revelacaoTitulo": "RECOMPENSA DESBLOQUEADA",
+    "revelacaoBotao": "VALIDAR MEU PRÊMIO",
+    "conversaoTitulo": "Valide seu prêmio",
+    "conversaoTexto": "Agora, falta apenas conversar com um especialista do Aprova PM para entender como aproveitar esse benefício.",
+    "conversaoPassos": [
+      "Você chama a equipe no WhatsApp",
+      "Um especialista confirma o seu código",
+      "Vocês definem o próximo passo da sua preparação"
+    ],
+    "conversaoBotao": "Validar meu prêmio",
+    "conversaoNota": "Prévia · a conversa real acontece no seu WhatsApp, sem custo",
+    "inicioLiberado": "ACESSO LIBERADO",
+    "inicioDica": "Mantenha o dedo no leitor até completar",
+    "explorarDica": "Toque no seu lugar",
+    "explorarBotao": "ESSE LUGAR É MEU",
+    "alexInstrucao": "Toque para desbloquear",
+    "alexCompleto": "ACESSO COMPLETO",
+    "chatNome": "Equipe Alex Faria · Aprova PM",
+    "chatMensagens": [
+      "Opa! Vi que você abriu o cofre 👊",
+      "Saiu isso pra você:",
+      "Me chama aqui que eu libero e te mostro como usar na sua preparação."
+    ],
+    "inicioSom": "Ligue o som",
+    "modoSemSom": "MODO SEM SOM · LEGENDAS E VIBRAÇÃO ATIVADAS",
+    "falaOuvir": "Ouvir a voz dele",
+    "depoimentosTitulo": "OS APROVADOS FALAM",
+    "jornadaRotulo": "MOMENTOS · FORMATURA PMESP",
+    "jornadaTitulo": "Cada etapa até a sua farda",
+    "jornadaSelo": "CONCURSO SOLDADO PMESP · 2.000 VAGAS",
+    "jornadaEtapas": [
+      "Prova escrita: objetiva e redação",
+      "Exame de aptidão física (TAF)",
+      "Exames de saúde",
+      "Avaliação psicológica",
+      "Investigação social e documentos"
+    ],
+    "jornadaFinal": "FORMATURA",
+    "jornadaVideo": "É aqui que você vai chegar.",
+    "jornadaBotao": "CONTINUAR",
+    "bootLinhas": [
+      "ARQUIVO: FORMATURAS PMESP 2016–2025",
+      "107 REGISTROS REAIS · ALUNOS APROVA PM",
+      "SINCRONIZANDO…"
+    ],
+    "chatDica": "Toque na notificação",
+    "faseConcluida": "FASE CONCLUÍDA",
+    "proximaFase": "PRÓXIMA FASE",
+    "explorarContagem": "ALUNOS DO ALEX · FORMATURAS PMESP",
+    "revelacaoSelo": "EXCLUSIVA · OPERAÇÃO APROVAÇÃO",
+    "notificacao": "🎁 Seu prêmio chegou. Toque para ver.",
+    "chatPremio": "SEU PRÊMIO",
+    "chatPergunta": "Toca aqui embaixo que a gente valida agora 👇",
+    "progressoEtapas": [
+      "ACESSO",
+      "APROVADOS",
+      "ALEX",
+      "COFRE",
+      "PRÊMIO"
+    ],
+    "palavrasIntro": [
+      "O SONHO",
+      "A LUTA",
+      "A FARDA"
+    ],
+    "momentosDica": "arraste para o lado",
+    "momentosFim": "Seu momento vem aí.",
+    "ingressoVoce": "VOCÊ GANHOU",
+    "hallRotulo": "HALL DOS APROVADOS · PMESP",
+    "hallSub": "Junto com quem já vestiu a farda.",
+    "hallFormando": "Formando PMESP",
+    "hallVoce": "VOCÊ",
+    "hallVaga": "SUA VAGA ESTÁ RESERVADA",
+    "progressoFalta": "faltam {n} para o seu prêmio",
+    "deslizar": "DESLIZE PARA ABRIR O COFRE ›››",
+    "hallToque": "TOQUE NA SUA VAGA"
+  },
+  "alex": {
+    "nome": "Alex Faria",
+    "foto": "",
+    "credenciais": [
+      "12 anos como policial militar",
+      "Psicólogo, com formação em neurociência",
+      "Já aplicou testes psicológicos dentro da PM (CPI-3)",
+      "À frente do Aprova PM, preparando quem quer a farda"
+    ],
+    "confirmado": true
+  },
+  "recompensas": [
+    {
+      "id": "bolsa-estudos",
+      "codigo": "BOLSA",
+      "categoria": "BOLSA DE ESTUDOS",
+      "titulo": "Bolsa de estudos Aprova PM",
+      "complemento": "Uma oportunidade para investir na sua preparação para a PMESP.",
+      "condicoes": [
+        "[A DEFINIR] Percentual ou valor da bolsa",
+        "[A DEFINIR] Para quais turmas/planos vale",
+        "Uso individual, confirmado pela equipe no WhatsApp"
+      ],
+      "validade": "[A DEFINIR] Válida até __/__/2026",
+      "ativa": true,
+      "peso": 1,
+      "placeholder": true,
+      "roda": "BOLSA"
+    },
+    {
+      "id": "aula-especial",
+      "codigo": "AULA",
+      "categoria": "AULA ESPECIAL AO VIVO",
+      "titulo": "Aula especial com Alex Faria",
+      "complemento": "Uma aula exclusiva, ao vivo, para acelerar sua preparação.",
+      "condicoes": [
+        "[A DEFINIR] Data e horário",
+        "[A DEFINIR] Plataforma de transmissão"
+      ],
+      "validade": "",
+      "ativa": true,
+      "peso": 1,
+      "placeholder": true,
+      "roda": "AULA AO VIVO"
+    },
+    {
+      "id": "orientacao-individual",
+      "codigo": "MENTOR",
+      "categoria": "ORIENTAÇÃO INDIVIDUAL",
+      "titulo": "Sessão de orientação com especialista",
+      "complemento": "Um especialista olha para o seu momento e indica o melhor caminho.",
+      "condicoes": [
+        "[A DEFINIR] Duração e formato da sessão",
+        "Agendamento pelo WhatsApp"
+      ],
+      "validade": "",
+      "ativa": true,
+      "peso": 1,
+      "placeholder": true,
+      "roda": "MENTORIA"
+    },
+    {
+      "id": "analise-planejamento",
+      "codigo": "PLANO",
+      "categoria": "ANÁLISE PERSONALIZADA",
+      "titulo": "Análise do seu planejamento de estudos",
+      "complemento": "Seu plano revisado por quem conhece o caminho até a farda.",
+      "condicoes": [
+        "[A DEFINIR] Como o planejamento é enviado",
+        "[A DEFINIR] Prazo de retorno"
+      ],
+      "validade": "",
+      "ativa": true,
+      "peso": 1,
+      "placeholder": true,
+      "roda": "PLANO DE ESTUDOS"
+    },
+    {
+      "id": "simulado-comentado",
+      "codigo": "SIMULADO",
+      "categoria": "SIMULADO ESPECIAL",
+      "titulo": "Simulado especial comentado",
+      "complemento": "Treine no formato da prova e entenda cada resposta.",
+      "condicoes": [
+        "[A DEFINIR] Data de liberação",
+        "[A DEFINIR] Forma de acesso"
+      ],
+      "validade": "",
+      "ativa": true,
+      "peso": 1,
+      "placeholder": true,
+      "roda": "SIMULADO"
+    }
+  ],
+  "distribuicao": {
+    "modo": "sorteio",
+    "recompensaGarantida": "bolsa-estudos",
+    "endpoint": "",
+    "regulamentoUrl": "",
+    "notaTransparencia": "Sorteio real entre as oportunidades da roda, um giro por participante. Condições confirmadas pela equipe no atendimento."
+  },
+  "whatsapp": {
+    "numero": "5516992703500",
+    "mensagem": "Quero validar meu prêmio 🎁 {recompensa} (código {codigo}). Quero sua ajuda para a etapa psicológica e outras etapas."
+  },
+  "rastreamento": {
+    "ga4": "",
+    "gtm": "",
+    "metaPixel": "",
+    "parametros": [
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "utm_content",
+      "utm_term",
+      "ref"
+    ]
+  },
+  "privacidade": {
+    "urlPolitica": "",
+    "exigirConsentimento": true,
+    "textoConsentimento": "Usamos cookies de medição para entender como esta experiência é usada. Nenhum dado pessoal é pedido aqui."
+  },
+  "audio": {
+    "trilha": null,
+    "volumeTrilha": 0.35
+  },
+  "modoPrevia": false
+}

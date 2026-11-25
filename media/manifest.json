@@ -1,0 +1,542 @@
+{
+ "rotulo": "FORMATURAS PMESP · ALUNOS APROVA PM · 2016–2025",
+ "intro": [
+  {
+   "src": "media/intro/hero.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/c01.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/c02.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/camisa.webp",
+   "tipo": "foto",
+   "pos": "50% 30%"
+  },
+  {
+   "src": "media/intro/c04.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/c05.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/c06.webp",
+   "tipo": "foto",
+   "pos": "50% 40%"
+  },
+  {
+   "src": "media/intro/abraco.webp",
+   "tipo": "foto",
+   "pos": "50% 30%"
+  }
+ ],
+ "atlas": {
+  "src": "media/mosaico/atlas.webp",
+  "cols": 16,
+  "rows": 7,
+  "tw": 144,
+  "th": 180,
+  "n": 108
+ },
+ "centro": [
+  "",
+  "media/mosaico/m01.webp",
+  "media/mosaico/m02.webp",
+  "media/mosaico/m03.webp",
+  "media/mosaico/m04.webp",
+  "media/mosaico/m05.webp",
+  "media/mosaico/m06.webp",
+  "media/mosaico/m07.webp",
+  "media/mosaico/m08.webp",
+  "media/mosaico/m09.webp",
+  "media/mosaico/m10.webp",
+  "media/mosaico/m11.webp",
+  "media/mosaico/m12.webp",
+  "media/mosaico/m13.webp",
+  "media/mosaico/m14.webp",
+  "media/mosaico/m15.webp",
+  "media/mosaico/m16.webp",
+  "media/mosaico/m17.webp",
+  "media/mosaico/m18.webp",
+  "media/mosaico/m19.webp",
+  "media/mosaico/m20.webp"
+ ],
+ "videosMosaico": [],
+ "alex": {
+  "src": "media/alex/alex.webp",
+  "w": 872,
+  "h": 1424,
+  "recorte": true
+ },
+ "anos": [
+  "2024",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2016",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2022",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2021",
+  "2024",
+  "2022",
+  "2025",
+  "2024",
+  "2022",
+  "2025",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2022",
+  "2024",
+  "2024",
+  "2024",
+  "2024",
+  "2024",
+  "2024",
+  "2024",
+  "2024"
+ ],
+ "entradaVideo": "media/intro/abraco.mp4",
+ "falas": [
+  {
+   "video": "media/falas/fala1.mp4",
+   "poster": "media/falas/fala1.webp",
+   "palavras": [
+    [
+     0.2,
+     0.24,
+     "Eu"
+    ],
+    [
+     0.24,
+     0.92,
+     "tentei,"
+    ],
+    [
+     1.04,
+     1.12,
+     "foram"
+    ],
+    [
+     1.12,
+     1.4,
+     "dez"
+    ],
+    [
+     1.4,
+     2.0,
+     "provas,"
+    ],
+    [
+     2.12,
+     2.38,
+     "seis"
+    ],
+    [
+     2.38,
+     3.0,
+     "anos,"
+    ],
+    [
+     3.24,
+     4.12,
+     "direto."
+    ]
+   ],
+   "autor": "FORMANDO PMESP · ALUNO APROVA PM",
+   "dur": 4.37,
+   "destaque": "10 PROVAS",
+   "ini": 0.0
+  },
+  {
+   "video": "media/falas/fala2.mp4",
+   "poster": "media/falas/fala2.webp",
+   "palavras": [
+    [
+     4.57,
+     4.85,
+     "Passei"
+    ],
+    [
+     4.85,
+     5.05,
+     "por"
+    ],
+    [
+     5.05,
+     5.39,
+     "três"
+    ],
+    [
+     5.39,
+     6.55,
+     "reprovas"
+    ],
+    [
+     6.55,
+     7.59,
+     "psicológico"
+    ],
+    [
+     7.59,
+     7.79,
+     "e"
+    ],
+    [
+     7.79,
+     7.93,
+     "era"
+    ],
+    [
+     7.93,
+     7.99,
+     "o"
+    ],
+    [
+     7.99,
+     8.15,
+     "meu"
+    ],
+    [
+     8.15,
+     8.35,
+     "maior"
+    ],
+    [
+     8.35,
+     8.83,
+     "trauma."
+    ],
+    [
+     9.28,
+     9.46,
+     "Fui"
+    ],
+    [
+     9.46,
+     10.1,
+     "aprovada,"
+    ],
+    [
+     10.26,
+     10.32,
+     "hoje"
+    ],
+    [
+     10.32,
+     10.42,
+     "eu"
+    ],
+    [
+     10.42,
+     10.54,
+     "estou"
+    ],
+    [
+     10.54,
+     10.7,
+     "aqui"
+    ],
+    [
+     10.7,
+     10.92,
+     "me"
+    ],
+    [
+     10.92,
+     11.58,
+     "formando."
+    ]
+   ],
+   "autor": "FORMANDA PMESP · ALUNA APROVA PM",
+   "dur": 7.46,
+   "destaque": "3 REPROVAS",
+   "ini": 4.37
+  },
+  {
+   "video": "media/falas/fala3.mp4",
+   "poster": "media/falas/fala3.webp",
+   "palavras": [
+    [
+     12.03,
+     12.19,
+     "Eu"
+    ],
+    [
+     12.19,
+     12.81,
+     "tentei"
+    ],
+    [
+     12.81,
+     13.15,
+     "sete"
+    ],
+    [
+     13.15,
+     13.53,
+     "vezes,"
+    ],
+    [
+     13.91,
+     14.11,
+     "passei"
+    ],
+    [
+     14.11,
+     14.25,
+     "na"
+    ],
+    [
+     14.25,
+     14.81,
+     "sétima."
+    ]
+   ],
+   "autor": "FORMANDO PMESP · ALUNO APROVA PM",
+   "dur": 3.23,
+   "destaque": "7 TENTATIVAS",
+   "ini": 11.83
+  },
+  {
+   "video": "media/falas/fala4.mp4",
+   "poster": "media/falas/fala4.webp",
+   "palavras": [
+    [
+     15.26,
+     15.42,
+     "um"
+    ],
+    [
+     15.42,
+     15.56,
+     "dia"
+    ],
+    [
+     15.56,
+     15.76,
+     "eu"
+    ],
+    [
+     15.76,
+     15.94,
+     "estava"
+    ],
+    [
+     15.94,
+     16.32,
+     "aí"
+    ],
+    [
+     16.32,
+     16.84,
+     "e"
+    ],
+    [
+     16.84,
+     17.08,
+     "hoje"
+    ],
+    [
+     17.08,
+     17.52,
+     "graças"
+    ],
+    [
+     17.52,
+     17.76,
+     "ao"
+    ],
+    [
+     17.76,
+     18.32,
+     "Alex"
+    ],
+    [
+     18.32,
+     18.74,
+     "eu"
+    ],
+    [
+     18.74,
+     18.94,
+     "estou"
+    ],
+    [
+     18.94,
+     19.26,
+     "aqui,"
+    ],
+    [
+     19.4,
+     19.58,
+     "eu"
+    ],
+    [
+     19.58,
+     19.85,
+     "consegui"
+    ]
+   ],
+   "autor": "FORMANDO PMESP · ALUNO APROVA PM",
+   "dur": 5.04,
+   "destaque": "GRAÇAS AO ALEX",
+   "ini": 15.06
+  }
+ ],
+ "galeria": [
+  "media/galeria/g06.webp",
+  "media/galeria/g04.webp",
+  "media/galeria/g09.webp",
+  "media/galeria/g01.webp",
+  "media/galeria/g07.webp",
+  "media/galeria/g10.webp",
+  "media/galeria/g03.webp",
+  "media/galeria/g05.webp",
+  "media/galeria/g02.webp",
+  "media/galeria/g08.webp"
+ ],
+ "falasVideo": {
+  "src": "media/falas/falas.mp4",
+  "poster": "media/falas/fala1.webp"
+ },
+ "narrador": {
+  "src": "media/narrador.m4a",
+  "falas": {
+   "entrada": [
+    0.0,
+    2.38
+   ],
+   "liberado": [
+    2.98,
+    2.02
+   ],
+   "frase": [
+    5.6,
+    4.66
+   ],
+   "voce": [
+    10.86,
+    2.4
+   ],
+   "depoimentos": [
+    13.86,
+    2.09
+   ],
+   "alex": [
+    16.55,
+    8.93
+   ],
+   "jornada": [
+    26.08,
+    2.21
+   ],
+   "cofre": [
+    28.89,
+    4.39
+   ],
+   "desbloqueada": [
+    33.88,
+    2.57
+   ],
+   "validar": [
+    37.05,
+    5.64
+   ]
+  }
+ }
+}
