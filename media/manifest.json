@@ -96,6 +96,7 @@
   "2022",
   "2025",
   "2021",
+  "2022",
   "2024",
   "2022",
   "2025",
@@ -144,14 +145,13 @@
   "2022",
   "2024",
   "2022",
-  "2024",
   "2024",
   "2024",
   "2024",
   "2024",
   "2024"
  ],
- "entradaVideo": "media/intro/abraco.mp4",
+ "entradaVideo": "media/intro/entrada.mp4",
  "falas": [
   {
    "video": "media/falas/fala1.mp4",
@@ -579,5 +579,6 @@
     5.64
    ]
   }
- }
+ },
+ "entradaPoster": "media/intro/entrada.webp"
 }
