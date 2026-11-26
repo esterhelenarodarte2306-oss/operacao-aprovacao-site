@@ -16,7 +16,7 @@
   },
   "textos": {
     "inicioRotulo": "OPERAÇÃO APROVAÇÃO · ACESSO",
-    "inicioTitulo": "Eles começaram exatamente onde você está agora.",
+    "inicioTitulo": "Acesse aqui para ganhar o seu prêmio.",
     "inicioBotao": "POSICIONE SUA DIGITAL",
     "inicioSemSom": "Entrar sem som",
     "inicioNota": "Aumente o volume. Leva menos de 1 minuto.",
@@ -67,7 +67,7 @@
     "alexCompleto": "MENTOR VERIFICADO",
     "chatNome": "Equipe Alex Faria · Aprova PM",
     "chatMensagens": [
-      "Opa! Vi que você abriu o cofre 👊",
+      "Voltou! Vi que você abriu o cofre 👊",
       "Saiu isso pra você:",
       "Me chama aqui que eu libero e te mostro como usar na sua preparação."
     ],
@@ -103,8 +103,9 @@
     "chatPergunta": "Toca aqui embaixo que a gente valida agora 👇",
     "progressoEtapas": [
       "ACESSO",
-      "APROVADOS",
+      "CONVERSA",
       "ALEX",
+      "APROVADOS",
       "COFRE",
       "PRÊMIO"
     ],
@@ -123,7 +124,16 @@
     "hallVaga": "SUA VAGA ESTÁ RESERVADA",
     "progressoFalta": "faltam {n} para o seu prêmio",
     "deslizar": "DESLIZE PARA ABRIR O COFRE ›››",
-    "hallToque": "ABRIR O COFRE ›"
+    "hallToque": "ABRIR O COFRE ›",
+    "chatContexto": [
+      "Oi! Aqui é da equipe do Alex Faria 👋",
+      "Sabe qual etapa mais reprova no concurso da PM?",
+      "O psicológico. Até 7 em cada 10 candidatos reprovam nele 😬",
+      "E a maioria nem entende por que reprovou.",
+      "O Alex é psicólogo, foi PM por 12 anos e já aplicou esses testes por dentro.",
+      "Separei um prêmio pra você 🎁 Mas antes, deixa eu te apresentar ele 👇"
+    ],
+    "chatContextoBotao": "Quero conhecer"
   },
   "alex": {
     "nome": "Alex Faria",
