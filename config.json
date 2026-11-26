@@ -45,8 +45,8 @@
     "conviteTitulo": "Agora, abra o que foi reservado para você.",
     "conviteBotao": "ABRIR O COFRE",
     "cofreRotulo": "COFRE DE OPORTUNIDADES",
-    "cofreInstrucao": "Segure a alavanca. Solte para girar.",
-    "cofreBotao": "SEGURE PARA GIRAR",
+    "cofreInstrucao": "Puxe a alavanca ou toque em GIRAR",
+    "cofreBotao": "GIRAR",
     "cofreStatus": "LIBERADO",
     "revelacaoTitulo": "RECOMPENSA DESBLOQUEADA",
     "revelacaoBotao": "VALIDAR MEU PRÊMIO",
@@ -63,8 +63,8 @@
     "inicioDica": "Mantenha o dedo no leitor até completar",
     "explorarDica": "Toque no seu lugar",
     "explorarBotao": "ESSE LUGAR É MEU",
-    "alexInstrucao": "Toque para desbloquear",
-    "alexCompleto": "ACESSO COMPLETO",
+    "alexInstrucao": "VERIFICANDO CREDENCIAIS",
+    "alexCompleto": "MENTOR VERIFICADO",
     "chatNome": "Equipe Alex Faria · Aprova PM",
     "chatMensagens": [
       "Opa! Vi que você abriu o cofre 👊",
@@ -123,7 +123,7 @@
     "hallVaga": "SUA VAGA ESTÁ RESERVADA",
     "progressoFalta": "faltam {n} para o seu prêmio",
     "deslizar": "DESLIZE PARA ABRIR O COFRE ›››",
-    "hallToque": "TOQUE NA SUA VAGA"
+    "hallToque": "ABRIR O COFRE ›"
   },
   "alex": {
     "nome": "Alex Faria",
