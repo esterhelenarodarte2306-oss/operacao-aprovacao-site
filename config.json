@@ -71,7 +71,7 @@
       "Saiu isso pra você:",
       "Me chama aqui que eu libero e te mostro como usar na sua preparação."
     ],
-    "inicioSom": "Ligue o som",
+    "inicioSom": "Ligue o som · melhor com fone 🎧",
     "modoSemSom": "MODO SEM SOM · LEGENDAS E VIBRAÇÃO ATIVADAS",
     "falaOuvir": "Ouvir a voz dele",
     "depoimentosTitulo": "OS APROVADOS FALAM",
@@ -157,7 +157,18 @@
         "r": "Validar não custa nada. A conversa é com a equipe do Alex."
       }
     ],
-    "chatFoto": "Olha o Alex com um aluno no dia da formatura 👊"
+    "chatFoto": "Olha o Alex com um aluno no dia da formatura 👊",
+    "objetivos": {
+      "chat": "Leia e responda a equipe",
+      "alex": "Conheça o seu mentor",
+      "intro": "Encontre o seu lugar no mural",
+      "fala": "Ouça quem já passou",
+      "jornada": "Toque para abrir o cofre",
+      "cofre": "Puxe a alavanca ou toque em GIRAR",
+      "revelacao": "Valide o seu prêmio",
+      "whatsapp": "Toque em Validar meu prêmio"
+    },
+    "objetivoExplorar": "Toque no VOCÊ · amplie e abra as fotos"
   },
   "alex": {
     "nome": "Alex Faria",
