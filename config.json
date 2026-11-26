@@ -131,7 +131,33 @@
       "O Alex é psicólogo, foi PM por 12 anos e já aplicou esses testes.",
       "Separei um prêmio pra você 🎁 Antes, conheça ele 👇"
     ],
-    "chatContextoBotao": "Quero conhecer"
+    "chatContextoBotao": "Quero conhecer",
+    "alexSeguir": "Ver quem já passou ›",
+    "chatSugestoes": [
+      {
+        "p": "Como assim 7 em 10? 😳",
+        "r": "É a etapa que mais elimina. Muita gente passa na prova e no TAF e cai no psicológico."
+      },
+      {
+        "p": "Quem é o Alex?",
+        "r": "Psicólogo e ex-PM. Ele sabe exatamente o que os testes avaliam. Já te mostro 👇"
+      },
+      {
+        "p": "Qual é o prêmio? 👀",
+        "r": "Surpresa 😏 Tá guardado num cofre. Você abre lá na frente."
+      }
+    ],
+    "chatSugestoesFim": [
+      {
+        "p": "Como eu uso o prêmio?",
+        "r": "A equipe te explica tudo aqui no WhatsApp. É só tocar em Validar 👇"
+      },
+      {
+        "p": "Tem algum custo?",
+        "r": "Validar não custa nada. A conversa é com a equipe do Alex."
+      }
+    ],
+    "chatFoto": "Olha o Alex com um aluno no dia da formatura 👊"
   },
   "alex": {
     "nome": "Alex Faria",
@@ -142,7 +168,13 @@
       "Já aplicou testes psicológicos dentro da PM (CPI-3)",
       "À frente do Aprova PM, preparando quem quer a farda"
     ],
-    "confirmado": true
+    "confirmado": true,
+    "detalhes": [
+      "Viveu a farda por dentro: sabe o que a PM espera de um soldado.",
+      "Entende como a sua mente reage sob pressão e como treinar isso.",
+      "Conhece os testes do lado de quem avalia.",
+      "Hoje prepara candidatos em cada etapa, do edital à farda."
+    ]
   },
   "recompensas": [
     {
