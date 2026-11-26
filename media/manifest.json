@@ -154,7 +154,7 @@
  "entradaVideo": "media/intro/entrada.mp4",
  "falas": [
   {
-   "video": "media/falas/fala1.mp4",
+   "video": "media/falas/falas.mp4",
    "poster": "media/falas/fala1.webp",
    "palavras": [
     [
@@ -259,52 +259,52 @@
     ]
    ],
    "autor": "FORMANDA PMESP · ALUNA APROVA PM",
-   "dur": 6.66,
+   "dur": 6.667,
    "destaque": "3 REPROVAS",
    "ini": 0.0
   },
   {
-   "video": "media/falas/fala2.mp4",
+   "video": "media/falas/falas.mp4",
    "poster": "media/falas/fala2.webp",
    "palavras": [
     [
-     6.68,
-     7.42,
+     6.69,
+     7.43,
      "Prestei"
     ],
     [
-     7.42,
-     7.68,
+     7.43,
+     7.69,
      "9"
     ],
     [
-     7.68,
-     8.5,
+     7.69,
+     8.51,
      "vezes"
     ],
     [
-     8.5,
-     8.88,
+     8.51,
+     8.89,
      "o"
     ],
     [
-     8.88,
-     9.08,
+     8.89,
+     9.09,
      "concurso"
     ],
     [
-     9.08,
-     9.24,
+     9.09,
+     9.25,
      "da"
     ],
     [
-     9.24,
-     9.48,
+     9.25,
+     9.49,
      "Polícia"
     ],
     [
-     9.48,
-     10.08,
+     9.49,
+     10.09,
      "Militar,"
     ],
     [
@@ -358,165 +358,165 @@
      "Alex,"
     ],
     [
-     12.78,
-     12.96,
+     12.77,
+     12.95,
      "hoje"
     ],
     [
-     12.96,
-     13.36,
+     12.95,
+     13.35,
      "graças"
     ],
     [
-     13.36,
-     13.56,
+     13.35,
+     13.55,
      "a"
     ],
     [
-     13.56,
-     13.9,
+     13.55,
+     13.89,
      "Deus"
     ],
     [
-     13.9,
-     14.26,
+     13.89,
+     14.25,
      "deu"
     ],
     [
-     14.26,
-     14.58,
+     14.25,
+     14.57,
      "tudo"
     ],
     [
-     14.58,
-     15.0,
+     14.57,
+     14.99,
      "certo"
     ]
    ],
    "autor": "FORMANDO PMESP · ALUNO APROVA PM",
-   "dur": 8.46,
+   "dur": 8.433,
    "destaque": "9 TENTATIVAS",
-   "ini": 6.66
+   "ini": 6.667
   },
   {
-   "video": "media/falas/fala3.mp4",
+   "video": "media/falas/falas.mp4",
    "poster": "media/falas/fala3.webp",
    "palavras": [
     [
-     15.38,
-     15.44,
+     15.36,
+     15.42,
      "Eu"
     ],
     [
-     15.44,
-     16.08,
+     15.42,
+     16.06,
      "já"
     ],
     [
-     16.08,
-     16.44,
+     16.06,
+     16.42,
      "tentei"
     ],
     [
-     16.44,
-     16.7,
+     16.42,
+     16.68,
      "cinco"
     ],
     [
-     16.7,
-     17.08,
+     16.68,
+     17.06,
      "vezes"
     ],
     [
-     17.08,
-     17.32,
+     17.06,
+     17.3,
      "um"
     ],
     [
-     17.32,
-     17.42,
+     17.3,
+     17.4,
      "curso"
     ],
     [
-     17.42,
-     17.56,
+     17.4,
+     17.54,
      "de"
     ],
     [
-     17.56,
-     18.14,
+     17.54,
+     18.12,
      "formação"
     ],
     [
-     18.14,
-     18.58,
+     18.12,
+     18.56,
      "e"
     ],
     [
-     18.58,
-     18.82,
+     18.56,
+     18.8,
      "aí"
     ],
     [
-     18.82,
-     19.26,
+     18.8,
+     19.24,
      "conheci"
     ],
     [
-     19.26,
-     19.46,
+     19.24,
+     19.44,
      "o"
     ],
     [
-     19.46,
-     19.74,
+     19.44,
+     19.72,
      "Aprova"
     ],
     [
-     19.74,
-     20.18,
+     19.72,
+     20.16,
      "PM"
     ],
     [
-     20.5,
-     20.84,
+     20.47,
+     20.81,
      "hoje"
     ],
     [
-     20.84,
-     21.08,
+     20.81,
+     21.05,
      "eu"
     ],
     [
-     21.08,
-     21.18,
+     21.05,
+     21.15,
      "estou"
     ],
     [
-     21.18,
-     21.44,
+     21.15,
+     21.41,
      "aqui"
     ],
     [
-     21.44,
-     21.8,
+     21.41,
+     21.77,
      "realizando"
     ],
     [
-     21.8,
-     22.06,
+     21.77,
+     22.03,
      "um"
     ],
     [
-     22.06,
-     22.54,
+     22.03,
+     22.51,
      "sonho."
     ]
    ],
    "autor": "FORMANDO PMESP · ALUNO APROVA PM",
-   "dur": 7.53,
+   "dur": 7.533,
    "destaque": "5 TENTATIVAS",
-   "ini": 15.12
+   "ini": 15.1
   }
  ],
  "galeria": [
@@ -580,5 +580,86 @@
    ]
   }
  },
- "entradaPoster": "media/intro/entrada.webp"
+ "entradaPoster": "media/intro/entrada.webp",
+ "grandes": [
+  "media/mosaico/g/000.webp",
+  "media/mosaico/g/001.webp",
+  "media/mosaico/g/002.webp",
+  "media/mosaico/g/003.webp",
+  "media/mosaico/g/004.webp",
+  "media/mosaico/g/005.webp",
+  "media/mosaico/g/006.webp",
+  "media/mosaico/g/007.webp",
+  "media/mosaico/g/008.webp",
+  "media/mosaico/g/009.webp",
+  "media/mosaico/g/010.webp",
+  "media/mosaico/g/011.webp",
+  "media/mosaico/g/012.webp",
+  "media/mosaico/g/013.webp",
+  "media/mosaico/g/014.webp",
+  "media/mosaico/g/015.webp",
+  "media/mosaico/g/016.webp",
+  "media/mosaico/g/017.webp",
+  "media/mosaico/g/018.webp",
+  "media/mosaico/g/019.webp",
+  "media/mosaico/g/020.webp",
+  "media/mosaico/g/021.webp",
+  "media/mosaico/g/022.webp",
+  "media/mosaico/g/023.webp",
+  "media/mosaico/g/024.webp",
+  "media/mosaico/g/025.webp",
+  "media/mosaico/g/026.webp",
+  "media/mosaico/g/027.webp",
+  "media/mosaico/g/028.webp",
+  "media/mosaico/g/029.webp",
+  "media/mosaico/g/030.webp",
+  "media/mosaico/g/031.webp",
+  "media/mosaico/g/032.webp",
+  "media/mosaico/g/033.webp",
+  "media/mosaico/g/034.webp",
+  "media/mosaico/g/035.webp",
+  "media/mosaico/g/036.webp",
+  "media/mosaico/g/037.webp",
+  "media/mosaico/g/038.webp",
+  "media/mosaico/g/039.webp",
+  "media/mosaico/g/040.webp",
+  "media/mosaico/g/041.webp",
+  "media/mosaico/g/042.webp",
+  "media/mosaico/g/043.webp",
+  "media/mosaico/g/044.webp",
+  "media/mosaico/g/045.webp",
+  "media/mosaico/g/046.webp",
+  "media/mosaico/g/047.webp",
+  "media/mosaico/g/048.webp",
+  "media/mosaico/g/049.webp",
+  "media/mosaico/g/050.webp",
+  "media/mosaico/g/051.webp",
+  "media/mosaico/g/052.webp",
+  "media/mosaico/g/053.webp",
+  "media/mosaico/g/054.webp",
+  "media/mosaico/g/055.webp",
+  "media/mosaico/g/056.webp",
+  "media/mosaico/g/057.webp",
+  "media/mosaico/g/058.webp",
+  "media/mosaico/g/059.webp",
+  "media/mosaico/g/060.webp",
+  "media/mosaico/g/061.webp",
+  "media/mosaico/g/062.webp",
+  "media/mosaico/g/063.webp",
+  "media/mosaico/g/064.webp",
+  "media/mosaico/g/065.webp",
+  "media/mosaico/g/066.webp",
+  "media/mosaico/g/067.webp",
+  "media/mosaico/g/068.webp",
+  "media/mosaico/g/069.webp",
+  "media/mosaico/g/070.webp",
+  "media/mosaico/g/071.webp",
+  "media/mosaico/g/072.webp",
+  "media/mosaico/g/073.webp",
+  "media/mosaico/g/074.webp",
+  "media/mosaico/g/075.webp",
+  "media/mosaico/g/076.webp",
+  "media/mosaico/g/077.webp",
+  "media/mosaico/g/078.webp"
+ ]
 }
